@@ -2,6 +2,6 @@
 return array(
 		'db' => array(
 				'username' => 'dbuser',
-				'password' => '18122242',
+				'password' => '05100926',
 		),
 );
